@@ -1,2 +1,2 @@
-# selene-pom
+# selenepom
 Page Object Model for Selene
